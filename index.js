@@ -55,7 +55,7 @@ app.post('/bfhl', (req, res) => {
 });
 
 
-const PORT = "https://vercel.com/mohit0205ms-projects";
+const PORT = "https://vercel.com";
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
